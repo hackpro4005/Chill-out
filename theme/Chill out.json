@@ -1,0 +1,14 @@
+{
+  "name": "Chill out",
+  "colors": {
+    "editor.background": "#117864",
+    "editor.foreground": "#FFF",
+    "editor.selectionBackground": "#111378",
+    "editor.selectionForeground": "#FFF",
+    "activityBar.background": "#111378",
+    "activityBar.foreground": "#FFF",
+    "sideBar.background": "#467811",
+    "sideBar.foreground": "#111378",
+    "editor.selectionHighlightBackground": "#33580a" 
+  }
+}
